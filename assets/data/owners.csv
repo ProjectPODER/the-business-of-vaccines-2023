@@ -1,0 +1,138 @@
+NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION
+AstraZeneca UK Limited,empresa,,
+AstraZeneca PLC,empresa,AstraZeneca UK Limited,parent
+Serum Institute of India,empresa,,
+Cyrus Poonawalla Group,empresa,Serum Institute of India,parent
+Limited Liability Company Human Vaccine,empresa,,
+Fondo Ruso de Inversión Directa,empresa,Limited Liability Company Human Vaccine,parent
+Pfizer Export B.V.,empresa,,
+Pfizer Inc.,empresa,Pfizer Export B.V.,parent
+CanSino Biologics Inc.,empresa,,
+Sinovac Life Science Co. LTD,empresa,,
+Sinovac Biotech Ltd.,empresa,Sinovac Life Science Co. LTD,parent
+Moderna,empresa,,
+Janssen Pharmaceutica,empresa,,
+Johnson & Johnson,empresa,Janssen Pharmaceutica,parent
+Gavi Alliance,empresa,,
+Centro de Ingenieria Genetica y Biotecnología,empresa,,
+Dongxu Qiu,persona,CanSino Biologics Inc.,shareholder
+Tao Zhu,persona,CanSino Biologics Inc.,shareholder
+Xuefeng Yu,persona,CanSino Biologics Inc.,shareholder
+Huihua Mao,persona,CanSino Biologics Inc.,shareholder
+Morgan Stanley,empresa,CanSino Biologics Inc.,shareholder
+Capital Research and Management Company,empresa,CanSino Biologics Inc.,shareholder
+The Capital Group Companies Inc.,empresa,CanSino Biologics Inc.,shareholder
+JPMorgan Chase & Co.,empresa,CanSino Biologics Inc.,shareholder
+BlackRock Inc.,empresa,CanSino Biologics Inc.,shareholder
+Citigroup Inc.,empresa,CanSino Biologics Inc.,shareholder
+Shou Bai Chao,persona,CanSino Biologics Inc.,shareholder
+Qiming Corporate GP IV  Ltd.,empresa,CanSino Biologics Inc.,shareholder
+Qiming GP IV  L.P.,empresa,CanSino Biologics Inc.,shareholder
+Qiming Venture Partners IV  L.P.,empresa,CanSino Biologics Inc.,shareholder
+QM29 Limited,empresa,CanSino Biologics Inc.,shareholder
+República de Cuba,gobierno,Centro de Ingenieria Genetica y Biotecnología,shareholder
+Federación Rusa,gobierno,Fondo Ruso de Inversión Directa,shareholder
+The Vanguard Group  Inc.,empresa,Johnson & Johnson,shareholder
+BlackRock Inc.,empresa,Johnson & Johnson,shareholder
+State Street Global Advisors  Inc.,empresa,Johnson & Johnson,shareholder
+Geode Capital Management  LLC,empresa,Johnson & Johnson,shareholder
+Northern Trust Global Investments,empresa,Johnson & Johnson,shareholder
+State Farm Mutual Automobile Insurance Co.,empresa,Johnson & Johnson,shareholder
+T. Rowe Price Group Inc.,empresa,Johnson & Johnson,shareholder
+Capital Research and Management Company,empresa,Johnson & Johnson,shareholder
+Wellington Management Group LLP,empresa,Johnson & Johnson,shareholder
+Norges Bank Investment Management,empresa,Johnson & Johnson,shareholder
+Morgan Stanley,empresa,Johnson & Johnson,shareholder
+BNY Asset Management,empresa,Johnson & Johnson,shareholder
+UBS Asset Management AG,empresa,Johnson & Johnson,shareholder
+Massachusetts Financial Services Company,empresa,Johnson & Johnson,shareholder
+Wells Fargo & Co.,empresa,Johnson & Johnson,shareholder
+Coatue Management LLC,empresa,Moderna,shareholder
+Morgan Stanley,empresa,Moderna,shareholder
+Baillie Gifford & Co,empresa,Moderna,shareholder
+BlackRock Inc.,empresa,Moderna,shareholder
+The Vanguard Group  Inc.,empresa,Moderna,shareholder
+Flagship Pioneering,empresa,Moderna,shareholder
+State Street Global Advisors  Inc.,empresa,Moderna,shareholder
+Geode Capital Management  LLC,empresa,Moderna,shareholder
+Theleme Partners LLP,empresa,Moderna,shareholder
+Northern Trust Global Investments,empresa,Moderna,shareholder
+Stephane Bancel,persona,Moderna,shareholder
+Robert S. Langer Jr.,persona,Moderna,shareholder
+Capital Research and Management Company,empresa,Moderna,shareholder
+Wellington Management Group LLP,empresa,Moderna,shareholder
+Norges Bank Investment Management,empresa,Moderna,shareholder
+The Vanguard Group  Inc.,empresa,Pfizer Inc.,shareholder
+BlackRock Inc.,empresa,Pfizer Inc.,shareholder
+Capital Research and Management Company,empresa,Pfizer Inc.,shareholder
+State Street Global Advisors Inc.,empresa,Pfizer Inc.,shareholder
+Wellington Management Group LLP,empresa,Pfizer Inc.,shareholder
+Geode Capital Management   LLC,empresa,Pfizer Inc.,shareholder
+Charles Schwab Investment Management Inc.,empresa,Pfizer Inc.,shareholder
+Northern Trust Global Investments,empresa,Pfizer Inc.,shareholder
+Norges Bank Investment Management,empresa,Pfizer Inc.,shareholder
+State Farm Mutual Automobile Insurance Co.,empresa,Pfizer Inc.,shareholder
+Massachusetts Financial Services Company,empresa,Pfizer Inc.,shareholder
+Morgan Stanley,empresa,Pfizer Inc.,shareholder
+BNY Asset Management,empresa,Pfizer Inc.,shareholder
+Dimensional Fund Advisors LP,empresa,Pfizer Inc.,shareholder
+UBS Asset Management AG,empresa,Pfizer Inc.,shareholder
+Cyrus Poonawalla,persona,Cyrus Poonawalla Group,shareholder
+Adar Poonawalla,persona,Cyrus Poonawalla Group,shareholder
+Saif Partners IV,empresa,Sinovac Biotech Ltd.,shareholder
+Yin Weidong,persona,Sinovac Biotech Ltd.,shareholder
+Vivo Capital  LLC,empresa,Sinovac Biotech Ltd.,shareholder
+Prime Success  L.P.,empresa,Sinovac Biotech Ltd.,shareholder
+CDH Utopia Limited,empresa,Sinovac Biotech Ltd.,shareholder
+1Globe Capital LLC.,empresa,Sinovac Biotech Ltd.,shareholder
+Yuk Lam Lo,persona,Sinovac Biotech Ltd.,shareholder
+Simon Anderson,persona,Sinovac Biotech Ltd.,shareholder
+Kenneth Lee,persona,Sinovac Biotech Ltd.,shareholder
+Meng Mei,persona,Sinovac Biotech Ltd.,shareholder
+Nan Wang,persona,Sinovac Biotech Ltd.,shareholder
+Ming Xia,persona,Sinovac Biotech Ltd.,shareholder
+Xiaomei Yin,persona,Sinovac Biotech Ltd.,shareholder
+Qiang Gao,persona,Sinovac Biotech Ltd.,shareholder
+Jing Li,persona,Sinovac Biotech Ltd.,shareholder
+BlackRock Inc.,empresa,AstraZeneca PLC,shareholder
+Capital Research and Management Company,empresa,AstraZeneca PLC,shareholder
+The Vanguard Group  Inc.,empresa,AstraZeneca PLC,shareholder
+Wellington Management Group LLP,empresa,AstraZeneca PLC,shareholder
+Investor AB (publ),empresa,AstraZeneca PLC,shareholder
+T. Rowe Price Group Inc.,empresa,AstraZeneca PLC,shareholder
+Norges Bank Investment Management,empresa,AstraZeneca PLC,shareholder
+State Street Global Advisors Inc.,empresa,AstraZeneca PLC,shareholder
+Legal & General Investment Management Ltd.,empresa,AstraZeneca PLC,shareholder
+FMR LLC,empresa,AstraZeneca PLC,shareholder
+UBS Asset Management AG,empresa,AstraZeneca PLC,shareholder
+GQG Partners LLC,empresa,AstraZeneca PLC,shareholder
+abrdn PLC,empresa,AstraZeneca PLC,shareholder
+Amundi Asset Management SAS,empresa,AstraZeneca PLC,shareholder
+Schroder Investment Management Ltd.,empresa,AstraZeneca PLC,shareholder
+Analog Devices Foundation,empresa,Gavi Alliance,shareholder
+Asia Philanthropy Circle,empresa,Gavi Alliance,shareholder
+Bill & Melinda Gates Foundation,empresa,Gavi Alliance,shareholder
+Charities Trust,empresa,Gavi Alliance,shareholder
+Cisco,empresa,Gavi Alliance,shareholder
+Coca-Cola Foundation,empresa,Gavi Alliance,shareholder
+Gamers without Borders,empresa,Gavi Alliance,shareholder
+Gates Philanthropies Partners,empresa,Gavi Alliance,shareholder
+Google.org,empresa,Gavi Alliance,shareholder
+KS Relief,empresa,Gavi Alliance,shareholder
+Mastercard,empresa,Gavi Alliance,shareholder
+Portuguese Private Sector,empresa,Gavi Alliance,shareholder
+Procter & Gamble,empresa,Gavi Alliance,shareholder
+Reed Hastings and Patty Quillin,empresa,Gavi Alliance,shareholder
+Salesforce,empresa,Gavi Alliance,shareholder
+Seadream Family Foundation,empresa,Gavi Alliance,shareholder
+Shell,empresa,Gavi Alliance,shareholder
+Spotify,empresa,Gavi Alliance,shareholder
+Stanley Black & Decker,empresa,Gavi Alliance,shareholder
+Thistledown Foundation,empresa,Gavi Alliance,shareholder
+TikTok,empresa,Gavi Alliance,shareholder
+Toyota Tsusho,empresa,Gavi Alliance,shareholder
+Twilio,empresa,Gavi Alliance,shareholder
+UBS Optimus Foundation,empresa,Gavi Alliance,shareholder
+Vaccine Forward Initiative,empresa,Gavi Alliance,shareholder
+Visa Foundation,empresa,Gavi Alliance,shareholder
+WHO Foundation-Go Give One Campaign,empresa,Gavi Alliance,shareholder

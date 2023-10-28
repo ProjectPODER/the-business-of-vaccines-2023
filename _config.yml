@@ -1,0 +1,143 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: The Business of Vaccine$
+
+# Logo image
+image:
+
+#Description of your site
+description: >-
+  The pharmaceutical industry, globally and in Mexico, has used different mechanisms to influence decision making on the pandemic. Companies profit at the cost of life and health.
+
+# Allow top menu: true or false
+top_menu: true
+
+# Customize the More information menu button title
+menu_button_title: More information
+
+# URL of your contracts file or API endpoint
+contracts_url: "/assets/data/contratos.csv"
+#contracts_url: "https://api.beta.quienesquien.wiki/v2/contracts?sort=-compiledRelease.total_amount&compiledRelease.parties.memberOf.name=%2FGrupo%20Aeroportuario%2Fi&debug=true&limit=614"
+
+# URL of your beneficial ownership file or API endpoint
+bods_url: "/assets/data/owners.csv"
+
+graph:
+  # The name of your graphic
+  - title: "282M DOSES"
+  # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
+  - sizes:
+    - min: 10
+    - max: 300
+  # colores de nodos y connectores
+  - colours:
+      - nodes:
+          - default: '#f7d147'
+          - contract: '#f7d147'
+          - contractTypes: '#f88b5f'
+          - contractByType: '#365be4'
+          - organization: '#75ba4a'
+          - shareholderPerson: '#ec9acd'
+          - shareholderCorp: '#9c5ada'
+      - links:
+          - default: '#706F74'
+          - contractsTypes: '#706F74'
+          - toCenter: '#706F74'
+          - toContractType: '#706F74'
+          - toOrganization: '#706F74'
+  - descriptionLink: "Ir al perfil"
+
+  #Format of the contracts_url: releases_json, records_json_api, csv
+  # releases_json: {releases: [] }
+  # records_json_api: {data: { records: [ {compiledRelease: {} }] } }
+  # csv: a csv file
+  - contracts_format: "csv"
+
+# Customize the titles and placeholder inputs in Contracts page
+# Personaliza los títulos y placeholders de los inputs en el buscador de contratos
+contracts_title: Contracts by companies
+search_title: Search
+search_placeholder: Enter keyword to search
+amount_title: Total Doses
+amount_from_placeholder: From
+amount_to_placeholder: to
+type_contract_title: Type of contract
+type_contract_title_tooltip: The law requires that the Buyer defines the type of contract because the rules vary in each case.
+type_contract_all_option: All
+type_procedure_title: Type of procedure
+type_procedure_title_tooltip: Public bidding is, according to Mexican law, the appropriate procedure for contracting public works. Exceptionally, other types of procedures can also be carried out, such as direct award, agreement and invitation to at least three suppliers.
+type_procedure_all_option: All
+date_range_title: Date range
+date_range_from_placeholder: From
+date_range_to_placeholder: to
+date_range_title_tooltip: Find active contracts between two dates.
+filter_footnote_title: Apply filters on contracts with companies.
+# Customize the Contract table titles
+column_1: Companies
+column_2: No. of contracts
+column_3: Total doses
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-analytics
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - docs/
+
+# Collections
+collections_dir: collections
+collections:
+  first-slider:
+    output: true
+  second-slider:
+    output: true
+  third-slider:
+    output: true
+  fourth-slider:
+    output: true
+  visualization-slider:
+    output: true
+  home:
+    output: true
+  footer:
+    output: true
+
+# Set to false to hide excerpts on the posts page
+show_excerpts: true
+future: true
+
+# Set the date language in the posts and post page (en/es).
+date-language: "en"
+
+# Set the date format in the posts and post page.
+# Other formats: "%a, %b %d, %y" | "%Y" | "%b %d, %y" | "%Y-%m-%d %H:%M"
+date-format: "%B %-d, %Y"
+
+# Analytics Configuration (for more options, see the documentation)
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-123-456          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
