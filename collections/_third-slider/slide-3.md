@@ -3,7 +3,6 @@ title: Slide 3
 image: antiviralporingreso.png
 ---
 
-# Dos terceras partes de antivirales a países ricos
+# Two-thirds of antivirals in wealthy countries
 
-El [**70,74%** de las ventas de **Paxlovid** están dirigidas a **países de ingresos altos**](https://public.tableau.com/app/profile/duke.global.health.innovation.center/viz/Therapeutics_02_06b/Draft_V4b){:target="_blank"}, el 27,87% a entidades globales como UNICEF, Global Fund y EU Health Preparedness and Response Authority. Del total de medicamentos vendidos el 0,73% están orientados a países de renta media alta (México y Tailandia) y el **0,66%** a países de **renta media baja** (Egipto y Ucrania).Del total de **Lagevrio** comercializado, [**el 67% se dirige a países de renta alta**](https://public.tableau.com/app/profile/duke.global.health.innovation.center/viz/Therapeutics_02_06b/Draft_V4b){:target="_blank"}, el 24% a entidades Globales (UNICEF), el 1,64% se orienta a países de renta media-alta (Malasia y Tailandia) y el **8,35%** restantes se dirige a países de **renta media-baja** (Indonesia, Ucrania, Cambodia y Filipinas).
-
+[**High-income countries receive 70.74% of Paxlovid's sales**](https://public.tableau.com/app/profile/duke.global.health.innovation.center/viz/Therapeutics_02_06b/Draft_V4b), with 27.87% going to global entities like UNICEF, Global Fund and the EU Health Preparedness and Response Authority. A small percentage targets upper-middle-income (0.73%) and lower-middle-income countries (0.66%). [**67% of Lagevrio is marketed to high-income countries**](https://public.tableau.com/app/profile/duke.global.health.innovation.center/viz/Therapeutics_02_06b/Draft_V4b), 24% to global entities (UNICEF), **1.64% to upper-middle-income countries** (Malaysia and Thailand), and the remaining **8.35% to lower-middle-income countries** (Indonesia, Ukraine, Cambodia, and the Philippines).
