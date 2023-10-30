@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: desigualdadvacunas_ENG.png
+image: vacunaspornivelingreso.svg
 ---
 
 # The pharmaceutical industry is highly concentrated
