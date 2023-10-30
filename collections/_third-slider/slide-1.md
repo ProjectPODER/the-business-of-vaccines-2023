@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: Ventas a nivel global por antivirales orales.png
+image: Ventas a nivel global por antivirales orales.svg
 ---
 
 # Pfizer's billion-dollar monopoly
