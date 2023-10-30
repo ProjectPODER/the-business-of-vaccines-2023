@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: antiviralporingreso.png
+image: Venta de medicamentos orales por grupo de ingresos.svg
 ---
 
 # Two-thirds of antivirals in wealthy countries
