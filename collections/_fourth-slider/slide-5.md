@@ -4,6 +4,6 @@ image: PVA.png
 ---
 
 # What the pandemic left behind
-## 5. Las vacunas de la gente
+## 5. People's Vaccines
 
-La coalición People’s Vaccine Alliance que aglutina a más de 100 organizaciones y redes, apoyada por expertos en salud pública, activistas, jefes de estado y premios nobel ha trabajado mancomunadamente para lograr el acceso universal a las vacunas solicitando entre otras cosas la liberación de las patentes para las vacunas y medicamentos contra la COVID-19. A pesar de este trabajo la aprobación en la OMC de la Exención de los  Aspectos de los Derechos de Propiedad Intelectual relacionados con el Comercio (ADPIC) [llegó tardíamente y con menor protección que la propuesta originalmente](https://peoplesvaccine.org/resources/media-releases/wto-reaction-2022/){:target="_blank"}.
+[The People's Vaccine Alliance](https://peoplesvaccine.org/) is a coalition of over 100 organizations and networks supported by public health experts, activists, heads of State, and Nobel laureates. Together, they have worked towards ensuring universal access to COVID-19 vaccines by advocating for the liberalization of patents for vaccines and drugs. Despite this work, the WTO's approval of the Trade-Related Aspects of Intellectual Property Rights (TRIPS) waiver [was delayed and provided less protection than initially proposed](https://peoplesvaccine.org/resources/media-releases/wto-reaction-2022/).
