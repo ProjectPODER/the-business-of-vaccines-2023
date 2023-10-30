@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: precio_ENG.png
+image: PUBLICA EL PRECIO.svg
 ---
 
 # CORPORATE SECRECY. PROTECTING COMPANIES BEFORE PEOPLE
