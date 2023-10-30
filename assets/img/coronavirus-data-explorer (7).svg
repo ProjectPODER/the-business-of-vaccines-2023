@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   style="font-family:Lato, 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif;font-size:18px;background-color:white;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased"
+   width="850"
+   height="600"
+   viewBox="0 0 850 600"
+   id="svg348"
+   sodipodi:docname="coronavirus-data-explorer (7).svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview350"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2383333"
+     inkscape:cx="414.67027"
+     inkscape:cy="264.06461"
+     inkscape:window-width="1680"
+     inkscape:window-height="1013"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg348" />
+  <defs
+     id="defs151">
+    <pattern
+       id="noDataPattern"
+       patternUnits="userSpaceOnUse"
+       width="4"
+       height="4"
+       patternTransform="rotate(-45 2 2)">
+      <path
+         d="M -1,2 l 6,0"
+         stroke="#ccc"
+         stroke-width="0.7"
+         id="path148" />
+    </pattern>
+  </defs>
+  <rect
+     class="background-fill"
+     fill="white"
+     width="850"
+     height="600"
+     id="rect153" />
+  <g
+     class="HeaderView"
+     id="g184">
+    <a
+       href="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&amp;time=2020-03-01..latest&amp;facet=metric&amp;uniformYAxis=0&amp;country=High+income~Low+income~Lower+middle+income~Upper+middle+income&amp;pickerSort=desc&amp;pickerMetric=human_development_index&amp;Metric=Vaccine+doses+%28by+type%29&amp;Interval=7-day+rolling+average&amp;Relative+to+Population=true&amp;Color+by+test+positivity=false"
+       style="font-family:'Playfair Display', Georgia, 'Times New Roman', 'Liberation Serif', serif"
+       target="_blank"
+       rel="noopener"
+       id="a176">
+      <text
+         font-size="21.6px"
+         x="15"
+         y="33.799999"
+         fill="#555555"
+         id="text174"
+         style="font-size:21.6px;fill:#555555"><tspan
+           x="15"
+           y="33.792"
+           id="tspan172"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Initial doses and boosters of COVID-19 vaccine per 100 persons, Jun 15, 2023</tspan></text>
+    </a>
+    <text
+       x="15"
+       y="54.599998"
+       style="font-size:14.4px;line-height:1.2"
+       fill="#666666"
+       id="text182"><tspan
+         x="15"
+         y="71.800003"
+         id="tspan180" /></text>
+  </g>
+  <text
+     x="15.050915"
+     y="63.323708"
+     fill="#1d3d63"
+     font-size="16.875px"
+     style="font-weight:700;font-size:16.875px;fill:#1d3d63"
+     id="text188"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan612">Initial doses</tspan></text>
+  <g
+     class="StackedDiscreteBarChart"
+     id="g258"
+     transform="translate(9.9739003,-40.89307)">
+    <rect
+       x="15"
+       y="121.535"
+       width="810"
+       height="182"
+       opacity="0"
+       fill="rgba(255,255,255,0)"
+       id="rect190" />
+    <g
+       class="AxisGridLines verticalLines"
+       id="g210">
+      <line
+         x1="144.7"
+         y1="303.53"
+         x2="144.7"
+         y2="121.53"
+         stroke="#999999"
+         id="line192" />
+      <line
+         x1="224.8"
+         y1="303.53"
+         x2="224.8"
+         y2="121.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line194" />
+      <line
+         x1="304.89999"
+         y1="303.53"
+         x2="304.89999"
+         y2="121.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line196" />
+      <line
+         x1="385"
+         y1="303.53"
+         x2="385"
+         y2="121.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line198" />
+      <line
+         x1="465.10001"
+         y1="303.53"
+         x2="465.10001"
+         y2="121.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line200" />
+      <line
+         x1="545.09998"
+         y1="303.53"
+         x2="545.09998"
+         y2="121.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line202" />
+      <line
+         x1="625.20001"
+         y1="303.53"
+         x2="625.20001"
+         y2="121.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line204" />
+      <line
+         x1="705.29999"
+         y1="303.53"
+         x2="705.29999"
+         y2="121.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line206" />
+      <line
+         x1="785.40002"
+         y1="303.53"
+         x2="785.40002"
+         y2="121.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line208" />
+    </g>
+    <g
+       id="g252">
+      <g
+         class="bar"
+         transform="translate(0,144.285)"
+         id="g220">
+        <text
+           transform="translate(139.7)"
+           fill="#555555"
+           dominant-baseline="middle"
+           text-anchor="end"
+           font-size="12.6562px"
+           font-weight="700"
+           id="text212"
+           style="font-weight:700;font-size:12.6562px;dominant-baseline:middle;text-anchor:end;fill:#555555"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan614">Upper middle income</tspan></text>
+        <g
+           id="g216"
+           style="fill:#365be4;fill-opacity:1">
+          <rect
+             x="0"
+             y="0"
+             transform="translate(144.7,-18.2)"
+             width="659"
+             height="36.400002"
+             fill="#6a51a3"
+             opacity="0.85"
+             id="rect214"
+             style="fill:#365be4;fill-opacity:1" />
+        </g>
+        <text
+           transform="translate(808.7)"
+           dominant-baseline="middle"
+           fill="#555555"
+           font-size="12.6562px"
+           id="text218">165</text>
+      </g>
+      <g
+         class="bar"
+         transform="translate(0,189.785)"
+         id="g230">
+        <text
+           transform="translate(139.7)"
+           fill="#555555"
+           dominant-baseline="middle"
+           text-anchor="end"
+           font-size="12.6562px"
+           font-weight="700"
+           id="text222"
+           style="font-weight:700;font-size:12.6562px;dominant-baseline:middle;text-anchor:end;fill:#555555"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan616">High income</tspan></text>
+        <g
+           id="g226"
+           style="fill:#365be4;fill-opacity:1">
+          <rect
+             x="0"
+             y="0"
+             transform="translate(144.7,-18.2)"
+             width="635.90002"
+             height="36.400002"
+             fill="#6a51a3"
+             opacity="0.85"
+             id="rect224"
+             style="fill:#365be4;fill-opacity:1" />
+        </g>
+        <text
+           transform="translate(785.6)"
+           dominant-baseline="middle"
+           fill="#555555"
+           font-size="12.6562px"
+           id="text228">159</text>
+      </g>
+      <g
+         class="bar"
+         transform="translate(0,235.285)"
+         id="g240">
+        <text
+           transform="translate(139.7)"
+           fill="#555555"
+           dominant-baseline="middle"
+           text-anchor="end"
+           font-size="12.6562px"
+           font-weight="700"
+           id="text232"
+           style="font-weight:700;font-size:12.6562px;dominant-baseline:middle;text-anchor:end;fill:#555555"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan618">Lower middle income</tspan></text>
+        <g
+           id="g236"
+           style="fill:#365be4;fill-opacity:1">
+          <rect
+             x="0"
+             y="0"
+             transform="translate(144.7,-18.2)"
+             width="493.70001"
+             height="36.400002"
+             fill="#6a51a3"
+             opacity="0.85"
+             id="rect234"
+             style="fill:#365be4;fill-opacity:1" />
+        </g>
+        <text
+           transform="translate(643.4)"
+           dominant-baseline="middle"
+           fill="#555555"
+           font-size="12.6562px"
+           id="text238">123</text>
+      </g>
+      <g
+         class="bar"
+         transform="translate(0,280.785)"
+         id="g250">
+        <text
+           transform="translate(139.7)"
+           fill="#555555"
+           dominant-baseline="middle"
+           text-anchor="end"
+           font-size="12.6562px"
+           font-weight="700"
+           id="text242"
+           style="font-weight:700;font-size:12.6562px;dominant-baseline:middle;text-anchor:end;fill:#555555"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan620">Low income</tspan></text>
+        <g
+           id="g246"
+           style="fill:#365be4;fill-opacity:1">
+          <rect
+             x="0"
+             y="0"
+             transform="translate(144.7,-18.2)"
+             width="149.60001"
+             height="36.400002"
+             fill="#6a51a3"
+             opacity="0.85"
+             id="rect244"
+             style="fill:#365be4;fill-opacity:1" />
+        </g>
+        <text
+           transform="translate(299.3)"
+           dominant-baseline="middle"
+           fill="#555555"
+           font-size="12.6562px"
+           id="text248">37</text>
+      </g>
+    </g>
+    <g
+       class="AxisGridLines verticalLines zeroLine"
+       id="g256">
+      <line
+         x1="144.7"
+         y1="303.53"
+         x2="144.7"
+         y2="121.53"
+         stroke="#999999"
+         id="line254" />
+    </g>
+  </g>
+  <text
+     x="17.198868"
+     y="296.34024"
+     fill="#1d3d63"
+     font-size="16.875px"
+     style="font-weight:700;font-size:16.875px;fill:#1d3d63"
+     id="text262"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="tspan1902">Boosters</tspan></text>
+  <g
+     class="StackedDiscreteBarChart"
+     id="g328"
+     transform="translate(12.232998,-37.312853)">
+    <rect
+       x="15"
+       y="362.535"
+       width="810"
+       height="182"
+       opacity="0"
+       fill="rgba(255,255,255,0)"
+       id="rect264" />
+    <g
+       class="AxisGridLines verticalLines"
+       id="g280">
+      <line
+         x1="144.7"
+         y1="544.53003"
+         x2="144.7"
+         y2="362.53"
+         stroke="#999999"
+         id="line266" />
+      <line
+         x1="244.60001"
+         y1="544.53003"
+         x2="244.60001"
+         y2="362.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line268" />
+      <line
+         x1="344.39999"
+         y1="544.53003"
+         x2="344.39999"
+         y2="362.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line270" />
+      <line
+         x1="444.20001"
+         y1="544.53003"
+         x2="444.20001"
+         y2="362.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line272" />
+      <line
+         x1="544"
+         y1="544.53003"
+         x2="544"
+         y2="362.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line274" />
+      <line
+         x1="643.90002"
+         y1="544.53003"
+         x2="643.90002"
+         y2="362.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line276" />
+      <line
+         x1="743.70001"
+         y1="544.53003"
+         x2="743.70001"
+         y2="362.53"
+         stroke="#dddddd"
+         stroke-dasharray="3, 2"
+         id="line278" />
+    </g>
+    <g
+       id="g322">
+      <g
+         class="bar"
+         transform="translate(0,385.285)"
+         id="g290">
+        <text
+           transform="translate(139.7)"
+           fill="#555555"
+           dominant-baseline="middle"
+           text-anchor="end"
+           font-size="12.6562px"
+           font-weight="700"
+           id="text282"
+           style="font-weight:700;font-size:12.6562px;dominant-baseline:middle;text-anchor:end;fill:#555555"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1904">High income</tspan></text>
+        <g
+           id="g286"
+           style="fill:#75ba4a;fill-opacity:1">
+          <rect
+             x="0"
+             y="0"
+             transform="translate(144.7,-18.2)"
+             width="662.59998"
+             height="36.400002"
+             fill="#cbc9e2"
+             opacity="0.85"
+             id="rect284"
+             style="fill:#75ba4a;fill-opacity:1" />
+        </g>
+        <text
+           transform="translate(812.3)"
+           dominant-baseline="middle"
+           fill="#555555"
+           font-size="12.6562px"
+           id="text288">66</text>
+      </g>
+      <g
+         class="bar"
+         transform="translate(0,430.785)"
+         id="g300">
+        <text
+           transform="translate(139.7)"
+           fill="#555555"
+           dominant-baseline="middle"
+           text-anchor="end"
+           font-size="12.6562px"
+           font-weight="700"
+           id="text292"
+           style="font-weight:700;font-size:12.6562px;dominant-baseline:middle;text-anchor:end;fill:#555555"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1906">Upper middle income</tspan></text>
+        <g
+           id="g296"
+           style="fill:#75ba4a;fill-opacity:1">
+          <rect
+             x="0"
+             y="0"
+             transform="translate(144.7,-18.2)"
+             width="498.79999"
+             height="36.400002"
+             fill="#cbc9e2"
+             opacity="0.85"
+             id="rect294"
+             style="fill:#75ba4a;fill-opacity:1" />
+        </g>
+        <text
+           transform="translate(648.5)"
+           dominant-baseline="middle"
+           fill="#555555"
+           font-size="12.6562px"
+           id="text298">50</text>
+      </g>
+      <g
+         class="bar"
+         transform="translate(0,476.285)"
+         id="g310">
+        <text
+           transform="translate(139.7)"
+           fill="#555555"
+           dominant-baseline="middle"
+           text-anchor="end"
+           font-size="12.6562px"
+           font-weight="700"
+           id="text302"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1908">Lower middle income</tspan></text>
+        <g
+           id="g306"
+           style="fill:#75ba4a;fill-opacity:1">
+          <rect
+             x="0"
+             y="0"
+             transform="translate(144.7,-18.2)"
+             width="189.39999"
+             height="36.400002"
+             fill="#cbc9e2"
+             opacity="0.85"
+             id="rect304"
+             style="fill:#75ba4a;fill-opacity:1" />
+        </g>
+        <text
+           transform="translate(339.1)"
+           dominant-baseline="middle"
+           fill="#555555"
+           font-size="12.6562px"
+           id="text308">19</text>
+      </g>
+      <g
+         class="bar"
+         transform="translate(0,521.785)"
+         id="g320">
+        <text
+           transform="translate(139.7)"
+           fill="#555555"
+           dominant-baseline="middle"
+           text-anchor="end"
+           font-size="12.6562px"
+           font-weight="700"
+           id="text312"
+           style="font-weight:700;font-size:12.6562px;dominant-baseline:middle;text-anchor:end;fill:#555555"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1910">Low income</tspan></text>
+        <g
+           id="g316"
+           style="fill:#75ba4a;fill-opacity:1">
+          <rect
+             x="0"
+             y="0"
+             transform="translate(144.7,-18.2)"
+             width="33.200001"
+             height="36.400002"
+             fill="#cbc9e2"
+             opacity="0.85"
+             id="rect314"
+             style="fill:#75ba4a;fill-opacity:1" />
+        </g>
+        <text
+           transform="translate(182.9)"
+           dominant-baseline="middle"
+           fill="#555555"
+           font-size="12.6562px"
+           id="text318">3.3</text>
+      </g>
+    </g>
+    <g
+       class="AxisGridLines verticalLines zeroLine"
+       id="g326">
+      <line
+         x1="144.7"
+         y1="544.53003"
+         x2="144.7"
+         y2="362.53"
+         stroke="#999999"
+         id="line324" />
+    </g>
+  </g>
+  <g
+     class="SourcesFooter"
+     style="fill:#777777"
+     id="g342"
+     transform="translate(-7.0462829,-51.552396)">
+    <g
+       style="fill:#777777"
+       id="g334">
+      <text
+         font-size="12.6px"
+         x="15"
+         y="582.70001"
+         id="text332"
+         style="font-size:12.6px"><tspan
+           x="15"
+           y="582.73199"
+           id="tspan330"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Source: Prepared by the authors based on official data collected by Our World in Data.</tspan></text>
+    </g>
+    <text
+       font-size="12.6px"
+       x="796.40002"
+       y="582.70001"
+       id="text340"><tspan
+         x="796.44397"
+         y="582.73199"
+         id="tspan338"><a
+           style="fill: #777;"
+           class="cclogo"
+           href="http://creativecommons.org/licenses/by/4.0/deed.en_US"
+           target="_blank"
+           id="a336" /></tspan></text>
+  </g>
+  <line
+     x1="15"
+     y1="600"
+     x2="835"
+     y2="600"
+     stroke="#777"
+     id="line344" />
+  <g
+     style="transform:translate(15px, 615px)"
+     id="g346" />
+</svg>

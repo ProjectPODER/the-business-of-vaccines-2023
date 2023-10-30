@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1005"
+   height="600"
+   version="1.1"
+   id="svg313"
+   sodipodi:docname="Venta de medicamentos orales por grupo de ingresos.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs317" />
+  <sodipodi:namedview
+     id="namedview315"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.97035431"
+     inkscape:cx="493.11885"
+     inkscape:cy="288.55439"
+     inkscape:window-width="1680"
+     inkscape:window-height="1013"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg313" />
+  <rect
+     width="856.841"
+     height="511.5477"
+     x="84.94191"
+     y="47.349075"
+     fill="#ffffff"
+     id="backgorund"
+     style="stroke-width:0.85258" />
+  <g
+     id="viz"
+     transform="matrix(0.85257904,0,0,0.85257904,84.941911,47.349075)">
+    <g
+       id="g272">
+      <g
+         transform="translate(84,20)"
+         id="g268">
+        <g
+           id="Paxlovid"
+           fill="#ec9acd">
+          <rect
+             x="0.99859548"
+             y="133.59914"
+             width="176.50175"
+             height="417.40088"
+             id="rect149" />
+          <rect
+             x="178.49895"
+             y="386.58752"
+             width="176.50175"
+             height="164.41249"
+             id="rect151" />
+          <rect
+             x="533.49963"
+             y="546.71442"
+             width="176.50175"
+             height="4.2855554"
+             id="rect153" />
+          <rect
+             x="355.9993"
+             y="547.08179"
+             width="176.50175"
+             height="3.9182222"
+             id="rect155" />
+        </g>
+        <g
+           id="Lagevrio"
+           fill="#365be4">
+          <rect
+             x="0.99859548"
+             y="32.097095"
+             width="176.50175"
+             height="101.50204"
+             id="rect158" />
+          <rect
+             x="178.49895"
+             y="349.85419"
+             width="176.50175"
+             height="36.733334"
+             id="rect160" />
+          <rect
+             x="533.49963"
+             y="544.26556"
+             width="176.50175"
+             height="2.4488888"
+             id="rect162" />
+          <rect
+             x="355.9993"
+             y="534.59247"
+             width="176.50175"
+             height="12.489333"
+             id="rect164" />
+        </g>
+        <g
+           id="Xocova"
+           fill="#75ba4a">
+          <rect
+             x="0.99859548"
+             y="19.852652"
+             width="176.50175"
+             height="12.244445"
+             id="rect167" />
+          <rect
+             x="178.49895"
+             y="349.85419"
+             width="176.50175"
+             height="0"
+             id="rect169" />
+          <rect
+             x="533.49963"
+             y="544.26556"
+             width="176.50175"
+             height="0"
+             id="rect171" />
+          <rect
+             x="355.9993"
+             y="534.59247"
+             width="176.50175"
+             height="0"
+             id="rect173" />
+        </g>
+        <g
+           id="xAxis"
+           transform="translate(0,551)"
+           fill="none"
+           font-size="10px"
+           font-family="sans-serif"
+           text-anchor="middle">
+          <path
+             class="domain"
+             stroke="currentColor"
+             d="m 0.5,0.5 h 711"
+             id="path176" />
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(89.249473)"
+             id="g182">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line178"
+               x1="0"
+               y1="0"
+               x2="0" />
+            <text
+               fill="currentColor"
+               y="18.383293"
+               id="text180"
+               style="fill:currentColor"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6388px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+                 id="tspan3631">High Income</tspan></text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(266.74982)"
+             id="g188">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line184"
+               x1="0"
+               y1="0"
+               x2="0" />
+            <text
+               fill="currentColor"
+               y="18.383293"
+               id="text186"
+               style="fill:currentColor"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6388px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+                 id="tspan3633">Global Entity</tspan></text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(444.25018)"
+             id="g194">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line190"
+               x1="0"
+               y1="0"
+               x2="0" />
+            <text
+               fill="currentColor"
+               y="18.383293"
+               id="text192"
+               style="fill:currentColor"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6388px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+                 id="tspan3635">Lower Middle Income</tspan></text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(621.75053)"
+             id="g200">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line196"
+               x1="0"
+               y1="0"
+               x2="0" />
+            <text
+               fill="currentColor"
+               y="18.383293"
+               id="text198"
+               style="fill:currentColor"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6388px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+                 id="tspan3637">Upper Middle Income</tspan></text>
+          </g>
+        </g>
+        <g
+           id="yAxis"
+           fill="none"
+           font-size="10px"
+           font-family="sans-serif"
+           text-anchor="end">
+          <path
+             class="domain"
+             stroke="currentColor"
+             d="M 0.5,551.5 V 0.5"
+             id="path203" />
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,551.5)"
+             id="g209">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line205"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text207">0</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,490.27778)"
+             id="g215">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line211"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text213">5,000,000</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,429.05556)"
+             id="g221">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line217"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text219">10,000,000</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,367.83333)"
+             id="g227">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line223"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text225">15,000,000</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,306.61111)"
+             id="g233">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line229"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text231">20,000,000</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,245.38889)"
+             id="g239">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line235"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text237">25,000,000</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,184.16667)"
+             id="g245">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line241"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text243">30,000,000</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,122.94444)"
+             id="g251">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line247"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text249">35,000,000</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,61.722222)"
+             id="g257">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line253"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text255">40,000,000</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,0.5)"
+             id="g263">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line259"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text261">45,000,000</text>
+          </g>
+        </g>
+        <text
+           y="547"
+           x="711"
+           text-anchor="end"
+           style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+           id="text266" />
+      </g>
+      <text
+         x="4"
+         y="4"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;dominant-baseline:hanging;fill:#000000"
+         id="text270" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.7666px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.17291"
+         x="202.3036"
+         y="-22.924753"
+         id="text678"><tspan
+           sodipodi:role="line"
+           id="tspan676"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.8944px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.17291"
+           x="202.3036"
+           y="-22.924753">Oral drug sales by income group</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:14.0749px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';white-space:pre;inline-size:1003.2;stroke-width:1.17291"
+         x="24.876179"
+         y="623.664"
+         id="text682"
+         transform="translate(-25.965313,-0.08307179)"><tspan
+           x="24.876179"
+           y="623.664"
+           id="tspan3739"><tspan
+             style="font-weight:300;font-size:15.6388px;-inkscape-font-specification:'Open Sans, Light'"
+             id="tspan3737">Source: Prepared by author with data from Duke Global Health Innovation Center. May 5, 2023. &quot;Speedometer. COVID 19 Therapeutics.&quot;</tspan></tspan></text>
+    </g>
+    <g
+       id="grid">
+      <rect
+         x="0"
+         y="0"
+         width="805"
+         height="600"
+         fill="none"
+         stroke="#cccccc"
+         id="rect274" />
+    </g>
+  </g>
+  <g
+     id="legend"
+     transform="matrix(0.85257904,0,0,0.85257904,686.25236,16.977854)">
+    <g
+       transform="translate(5)"
+       id="g310">
+      <g
+         class="legendColor"
+         id="g308">
+        <g
+           class="legendCells"
+           transform="translate(99.715824,71.622744)"
+           id="g302">
+          <g
+             class="cell"
+             id="g284">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill:#365be4"
+               id="rect278"
+               x="0"
+               y="0" />
+            <text
+               class="label"
+               transform="translate(20,12.5)"
+               font-family="Arial, sans-serif"
+               font-size="10px"
+               id="text282"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0749px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan280"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6388px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Lagevrio</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0,21)"
+             id="g292">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill:#ec9acd"
+               id="rect286"
+               x="0"
+               y="0" />
+            <text
+               class="label"
+               transform="translate(20,12.5)"
+               font-family="Arial, sans-serif"
+               font-size="10px"
+               id="text290"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0749px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan288"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6388px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Paxlovid</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0,42)"
+             id="g300">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill:#75ba4a"
+               id="rect294"
+               x="0"
+               y="0" />
+            <text
+               class="label"
+               transform="translate(20,12.5)"
+               font-family="Arial, sans-serif"
+               font-size="10px"
+               id="text298"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0749px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan296"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6388px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Xocova</tspan></text>
+          </g>
+        </g>
+        <text
+           class="legendTitle"
+           font-family="Arial, sans-serif"
+           font-size="12px"
+           font-weight="bold"
+           id="text306"
+           x="99.715828"
+           y="55.622742"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6388px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+             x="99.715828"
+             id="tspan304"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.7666px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Antiviral</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="805"
+   height="600"
+   version="1.1"
+   id="svg229"
+   sodipodi:docname="acciones de las empresas.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs233">
+    <rect
+       x="90.799538"
+       y="564.98442"
+       width="608.47911"
+       height="24.343268"
+       id="rect1063" />
+    <rect
+       x="695.09478"
+       y="16.528953"
+       width="21.611768"
+       height="14.085518"
+       id="rect503" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview231"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2383333"
+     inkscape:cx="403.36475"
+     inkscape:cy="294.75102"
+     inkscape:window-width="1680"
+     inkscape:window-height="1013"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="" />
+  <rect
+     width="724.85455"
+     height="540.26471"
+     x="40.203453"
+     y="2.761812"
+     fill="#ffffff"
+     id="backgorund"
+     style="stroke-width:0.90044" />
+  <g
+     id="viz">
+    <g
+       id=""
+       transform="translate(0,0)"
+       clip-path="url(#serieClipPath)">
+      <g
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="g161"
+         transform="matrix(0.90044079,0,0,0.90044079,38.749176,11.475656)">
+        <g
+           transform="translate(105.25925,21.498683)"
+           id="g153">
+          <text
+             y="-9"
+             id="text149"
+             style="white-space:pre;inline-size:244.907;display:inline"
+             transform="matrix(0.93764092,0,0,0.89427058,7.4592182,-2.2475762)"
+             xml:space="preserve"><tspan
+               x="0"
+               y="-9"
+               id="tspan1135"><tspan
+                 style="font-size:16.1708px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';fill:#000000"
+                 id="tspan1133">Share price January 2020 
+</tspan></tspan><tspan
+               x="0"
+               y="11.213499"
+               id="tspan1139"><tspan
+                 style="font-size:16.1708px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';fill:#000000"
+                 id="tspan1137">(USD per share)</tspan></tspan></text>
+          <line
+             y1="-14.113933"
+             y2="-20.113932"
+             stroke="currentColor"
+             id="line151"
+             x1="-14.443177"
+             x2="-14.443177" />
+        </g>
+        <g
+           transform="matrix(0.94562212,0,0,0.87255538,692.00409,20.107701)"
+           id="g159">
+          <text
+             y="-9"
+             id="text155"
+             style="white-space:pre;inline-size:252.337;display:inline"
+             xml:space="preserve"><tspan
+               x="0"
+               y="-9"
+               id="tspan1143"><tspan
+                 style="font-size:16.3015px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';fill:#000000"
+                 id="tspan1141">Share price June 2023
+</tspan></tspan><tspan
+               x="0"
+               y="11.376874"
+               id="tspan1147"><tspan
+                 style="font-size:16.3015px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';fill:#000000"
+                 id="tspan1145"> (USD per share)</tspan></tspan></text>
+          <line
+             y1="0"
+             y2="-6"
+             stroke="currentColor"
+             id="line157"
+             x1="0"
+             x2="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           id="text501"
+           style="font-weight:bold;font-size:12px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';white-space:pre;shape-inside:url(#rect503);display:inline" />
+      </g>
+      <g
+         id="g198"
+         transform="matrix(0.90044079,0,0,0.90044079,38.749176,11.475656)">
+        <g
+           id="AstraZeneca PLC"
+           style="stroke-width:2.67795352;stroke-dasharray:none">
+          <line
+             x1="140"
+             x2="665"
+             y1="464.50104"
+             y2="372.95724"
+             stroke="#365be4"
+             fill="none"
+             id="line163"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+          <circle
+             cx="140"
+             cy="464.50104"
+             r="7"
+             fill="#365be4"
+             id="circle165"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+          <circle
+             cx="665"
+             cy="372.95724"
+             r="7"
+             fill="#365be4"
+             id="circle167"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+        </g>
+        <g
+           id="Pfizer Inc "
+           style="stroke-width:2.67795352;stroke-dasharray:none">
+          <line
+             x1="140"
+             x2="665"
+             y1="522.62213"
+             y2="513.36536"
+             stroke="#9467bd"
+             fill="none"
+             id="line170"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+          <circle
+             cx="140"
+             cy="522.62213"
+             r="7"
+             fill="#9467bd"
+             id="circle172"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+          <circle
+             cx="665"
+             cy="513.36536"
+             r="7"
+             fill="#9467bd"
+             id="circle174"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+        </g>
+        <g
+           id="Biontech SE"
+           style="stroke-width:2.67795352;stroke-dasharray:none">
+          <line
+             x1="140"
+             x2="665"
+             y1="538.88293"
+             y2="211.98764"
+             stroke="#f7d147"
+             fill="none"
+             id="line177"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+          <circle
+             cx="140"
+             cy="538.88293"
+             r="7"
+             fill="#f7d147"
+             id="circle179"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+          <circle
+             cx="665"
+             cy="211.98764"
+             r="7"
+             fill="#f7d147"
+             id="circle181"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+        </g>
+        <g
+           id="Moderna">
+          <line
+             x1="140"
+             x2="665"
+             y1="590"
+             y2="145.01936"
+             stroke="#ec9acd"
+             fill="none"
+             id="line184"
+             style="stroke-width:2.67795352;stroke-dasharray:none" />
+          <circle
+             cx="140"
+             cy="590"
+             r="7"
+             fill="#ec9acd"
+             id="circle186" />
+          <circle
+             cx="665"
+             cy="145.01936"
+             r="7"
+             fill="#ec9acd"
+             id="circle188" />
+        </g>
+        <g
+           id="Johnson &amp; Johnson">
+          <line
+             x1="140"
+             x2="665"
+             y1="75.102028"
+             y2="40"
+             stroke="#75ba4a"
+             fill="none"
+             id="line191"
+             style="stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke-width:2.67795352" />
+          <circle
+             cx="140"
+             cy="75.102028"
+             r="7"
+             fill="#75ba4a"
+             id="circle193" />
+          <circle
+             cx="665"
+             cy="40"
+             r="7"
+             fill="#75ba4a"
+             id="circle195" />
+        </g>
+      </g>
+      <g
+         id="g220">
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:9.0044px;font-family:Arial, sans-serif;fill:#000000;stroke-width:0.90044;text-anchor:end"
+           id="text200"
+           x="154.90598"
+           y="434.23352"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1051">AstraZeneca PLC 50.9</tspan></text>
+        <text
+           text-anchor="start"
+           style="font-weight:normal;font-size:9.0044px;font-family:Arial, sans-serif;fill:#000000;stroke-width:0.90044;text-anchor:start"
+           id="text202"
+           x="647.44666"
+           y="351.80371"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1061">AstraZeneca PLC 73.25</tspan></text>
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:9.0044px;font-family:Arial, sans-serif;fill:#000000;stroke-width:0.90044;text-anchor:end"
+           id="text204"
+           x="154.90598"
+           y="484.88425"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1053">Pfizer Inc 36.71</tspan></text>
+        <text
+           text-anchor="start"
+           style="font-weight:normal;font-size:9.0044px;font-family:Arial, sans-serif;fill:#000000;stroke-width:0.90044;text-anchor:start"
+           id="text206"
+           x="647.44666"
+           y="478.233"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1063">Pfizer Inc 38.97</tspan></text>
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:9.0044px;font-family:Arial, sans-serif;fill:#000000;stroke-width:0.90044;text-anchor:end"
+           id="text208"
+           x="154.90598"
+           y="502.89352"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1055">Biontech SE 32.74</tspan></text>
+        <text
+           text-anchor="start"
+           style="font-weight:normal;font-size:9.0044px;font-family:Arial, sans-serif;fill:#000000;stroke-width:0.90044;text-anchor:start"
+           id="text210"
+           x="647.44666"
+           y="206.86012"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1059">Biontech SE 112.55</tspan></text>
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:9.0044px;font-family:Arial, sans-serif;fill:#000000;stroke-width:0.90044;text-anchor:end"
+           id="text212"
+           x="154.90598"
+           y="547.23792"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1057">Moderna 20.26</tspan></text>
+        <text
+           text-anchor="start"
+           style="font-weight:normal;font-size:9.0044px;font-family:Arial, sans-serif;fill:#000000;stroke-width:0.90044;text-anchor:start"
+           id="text214"
+           x="647.44666"
+           y="146.55922"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1049">Moderna 128.9</tspan></text>
+        <text
+           text-anchor="end"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0044px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#000000;stroke-width:0.90044"
+           id="text216"
+           x="154.90598"
+           y="83.602806"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1045">Johnson &amp; Johnson 145.97</tspan></text>
+        <text
+           text-anchor="start"
+           style="font-weight:normal;font-size:9.0044px;font-family:Arial, sans-serif;fill:#000000;stroke-width:0.90044;text-anchor:start"
+           id="text218"
+           x="647.44666"
+           y="51.995476"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan1047">Johnson &amp; Johnson 154.54</tspan></text>
+        <text
+           xml:space="preserve"
+           id="text1061"
+           style="font-weight:bold;font-size:12px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';white-space:pre;shape-inside:url(#rect1063);display:inline"
+           transform="translate(64.124866,0.35024158)"><tspan
+             x="90.798828"
+             y="576.79833"
+             id="tspan1151"><tspan
+               style="font-weight:300;font-size:13.3333px;-inkscape-font-specification:'Open Sans, Light'"
+               id="tspan1149">Source: Prepared by authors based on data available at https://seekingalpha.com/</tspan></tspan></text>
+      </g>
+      <text
+         x="43.251385"
+         y="15.977858"
+         style="font-weight:bold;font-size:10.8052px;font-family:Arial, sans-serif;dominant-baseline:hanging;fill:#000000;stroke-width:0.90044"
+         id="text222" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:12px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold'"
+         x="210.99251"
+         y="37.850712"
+         id="text1041"><tspan
+           sodipodi:role="line"
+           id="tspan1039"></tspan></text>
+    </g>
+  </g>
+  <clipPath
+     id="serieClipPath">
+    <rect
+       x="0"
+       y="0"
+       width="805"
+       height="600"
+       id="rect226" />
+  </clipPath>
+</svg>
