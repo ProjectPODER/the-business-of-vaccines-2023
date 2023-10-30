@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: coronavirus-data-explorer (7).png
+image: coronavirus-data-explorer (7).svg
 ---
 
 # What the pandemic left behind
