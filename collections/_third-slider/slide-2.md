@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: Venta de medicamentos orales por grupo de ingresos.png
+image: Venta de medicamentos orales por grupo de ingresos.svg
 ---
 
 # Who can have access to antivirals?
