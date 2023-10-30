@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: barda.png
+image: barda.svg
 ---
 
 # What the pandemic left behind
