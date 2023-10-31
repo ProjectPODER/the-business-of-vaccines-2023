@@ -4,34 +4,15 @@ title: Route of vaccine$
 permalink: /route-of-vaccines/
 ---
 
-# La ruta de las vacuna$
+# The route of vaccines
 
-La Ruta de las Vacuna$ (2023) presenta la distribución mundial de las 9 vacunas contra la COVID-19 de aplicación en
-México, desde el punto de producción hacia los países que concretaron acuerdos de compra con las farmacéuticas. Estas
-empresas han vendido en conjunto 10,132 millones de dosis a 99 países a través de 423 contratos. **Pfizer** ha
-concretado 136 contratos con 62 países para la adquisición de 4,024 millones de dosis, convirtiéndose así en la empresa
-con el mayor número de dosis vendidas. Le siguen **Serum Institute of India** con 43 contratos con 32 países para la
-adquisición de 2,136 millones de dosis, **Moderna** con 44 contratos con 24 países para la adquisición de 1,275 millones
-de dosis y **AstraZeneca** con 38 contratos con 34 países para la adquisición de 1,012 millones de dosis. El principal
-destino de las dosis vendidas ha sido Estados Unidos, con la adquisición de 2,491 millones de dosis de las farmacéuticas
-Pfizer (66%), Moderna (23%), Janssen (8%) y AstraZeneca (3%). El segundo destino corresponde a la India con la
-adquisición de 1,931 millones de dosis de las farmacéuticas Serum Institute of India (97%) y Pfizer (3%). Finalmente, el
-tercer destino es Brasil con la adquisición de 797 millones de dosis de las farmacéuticas Pfizer (44%), AstraZeneca
-(22%), Sinovac (18%), Cansino (8%), Janssen (5%), Moderna (2%) y Serum Institute of India (1%). **Janssen, Moderna y
-Pfizer** han enviado dosis principalmente a **Estados Unidos, Canadá y países de Europa, en promedio cerca del 60% del
-total de sus dosis**. **Sinovac, Sputnik V y Serum Institute of India** han enviado cada uno **más de la mitad de sus
-dosis a países de Asia**, **Cansino** ha enviado cerca de **la mitad de sus dosis a países de América del Sur**,
-**Abdala** ha enviado **un tercio de sus dosis a México** y **AstraZeneca un tercio de sus dosis a países de Asia y poco
-menos de un tercio a países de América del Sur**. América Latina ha recibido 1,617 millones de dosis de las 9
-farmacéuticas, mediante acuerdos de compra con 12 países de la región, siendo Brasil el principal destino con el 49% de
-dosis, seguido de México con el 19% y de Perú con el 8%. Las farmacéuticas con más dosis vendidas en América Latina han
-sido Pfizer (35%), AstraZeneca (21%) y Sinovac (16%).
+The Route of Vaccines is a cartographic representation of the purchase agreements entered into by the pharmaceutical companies that produce the vaccines that have been administered in Mexico. These 8 companies have sold 9.2 billion doses worldwide. Pfizer is the company with the most doses sold in the group (3.366 billion doses in 100 contracts with 55 countries). It is followed by Serum Institute of India (2.135 billion doses in 40 contracts with 31 countries), AstraZeneca (1.256 billion doses in 36 contracts with 33 countries), and Moderna (1.036 billion doses in 33 contracts with 22 countries). Pfizer, AstraZeneca, Moderna, and Janssen have their primary destination in the United States, whereas Serum Institute of India has India; Sinovac has China; Sputnik V has Iran, in addition to Russia; and Cansino has Mexico. Pfizer, Moderna, and Janssen have sent more than 60% of their total doses to the United States, Canada, and Europe. Sinovac and Sputnik V have sent at least half their doses to Asia and AstraZeneca has sent a third of its doses to Asia and a third to Latin America as its leading destinations. Latin America has received 1.326 billion doses from these 8 companies. Eighteen countries have purchase agreement with the companies, the top destinations being Brazil, Mexico, and Peru; Brazil has acquired nearly half of these doses. The pharmaceutical companies with most doses sold in the region are Pfizer, AstraZeneca, and Sinovac.
 
 {:.image-post}
-![Mapa de la ruta de las vacunas]({{ site.baseurl }}/assets/img/la_ruta_vacunas_mapa_2023.jpeg)
+![Mapa de la ruta de las vacunas]({{ site.baseurl }}/assets/img/MAPA-VACUNAS-ING-v3.png)
 
 <br>
 <div class="text-center mb-5">
-	<a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2023/06/la_ruta_vacunas_mapa_2023.jpeg"
-		target="_blank">Ve el mapa completo</a>
+	<a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2022/09/MAPA-VACUNAS-ING-v3.png" target="_blank">Full Screen Map</a>
 </div>
+<br>
