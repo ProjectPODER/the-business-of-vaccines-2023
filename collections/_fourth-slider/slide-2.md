@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: nacionalismo de vacunas.svg
+image: nacionalismo de vacunas.jpg
 ---
 
 # What the pandemic left behind
