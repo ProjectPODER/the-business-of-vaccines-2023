@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: paxlovid v3.jpeg
+image: Paxlovid - inglés.png
 ---
 
 # Mexico manufactures generic drugs but purchases patented ones
