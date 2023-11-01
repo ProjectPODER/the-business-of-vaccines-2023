@@ -13,6 +13,6 @@ The Route of Vaccines is a cartographic representation of the purchase agreement
 
 <br>
 <div class="text-center mb-5">
-	<a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2022/09/MAPA-VACUNAS-ING-v3.png" target="_blank">Full Screen Map</a>
+	<a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2023/10/rutasvacunas_ingles.png" target="_blank">Full Screen Map</a>
 </div>
 <br>
